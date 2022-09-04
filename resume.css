@@ -1,0 +1,57 @@
+.container {
+    max-width: 1000px;
+    font-family: Arial, sans-serif;
+    color: #000;
+}
+
+.work .text-dark-grey {
+    font-size: 0.9rem;
+}
+
+.text-dark-grey {
+    color: #7F7F7F;
+}
+
+.text-light-grey {
+    color: darkgrey;
+}
+
+.text-black {
+    color: black;
+}
+
+.nav-link.text-light-grey:hover {
+    color: #fff;
+}
+
+.text-subtitle {
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    text-align: center;
+    font-style: italic;
+    color: #7AA9C0;
+}
+
+.bg-aside {
+    background-color: #F2F2F2;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+h5,
+h4 {
+    color: #4c85a1;
+}
+
+.text-light-blue {
+    color: #7AA9C0;
+}
+
+hr {
+    width: 40px;
+    margin: auto;
+    color: #4c85a1;
+    margin-bottom: 3rem;
+}
